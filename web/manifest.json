@@ -1,6 +1,6 @@
 {
     "name": "abu_saxi_web",
-    "short_name": "abu_saxi_web",
+    "short_name": "Abu Saxi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
